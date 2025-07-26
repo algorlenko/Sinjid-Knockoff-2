@@ -1,0 +1,15 @@
+flash game ideas:
+maybe actually do the skill tree like Sonny so that you are rewarded for taking multiple actives, BUT to not just encourage rail roading one skill that has a decent cooldown, just make all the skills only take 1 level to max out. Passives can have more dumpable levels.
+Alternatively you can just have a set of actives unlock when you hit level breakpoints, but that might make the early game very boring. maybe have some pretty fun skills already preunlocked.
+you could also have preunlocked skills, but then just invest levels to upgrade them so you always have them as options.
+To replace critical chance, you could have "Adrenaline buildup" where you build up Adrenaline over turns, maybe scaling with the type of shit you do, and once it's full you get a guaranteed crit, and agility instead of giving crit chance would give faster adrenaline buildup and maybe also Crit Damage. Crits should also apply to spells, but more importantly maybe have them apply to heals and buffs. Maybe have any overflow adrenaline amplify your crit, so no need to try to hit 100 perfectly. or have it overflow into the next crit, though I would like it to be possible to crit every turn lol. The last question is do I want the adrenaline crit to be poppable when you want or as soon as you get it.
+I've decided it should be poppable When you want, which leads to the question of: should overflow be punished or rewarded? Punished at first, Perks or passives or whatever to make it rewarded. between amplify or overflow, I'll just choose whichever option is easier to program, or do both on two seperate perks.
+was there an idea I was going to lift from Darkest Dungeon or runescape? No, maybe for my big homm3 game I could grab an idea from Runescape leagues, but probably not, even though choosing region unlock order where every region has content of all difficulties is fucking genius. maybe I could use that in the flash game if I got to amazing heights with it and needed a way to connect multiple areas.
+
+
+
+
+
+Task List: Get it so that you cannot do anything until the animation for something is finished, or have a way to cancel animations, but that's kinda tough. So probably just restrict action until animation is finished, that is very good practice anyways.
+
+To give yourself an easier task, you can add in a victory condition and upon reaching it you transition to the overworld scene.
